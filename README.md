@@ -39,6 +39,6 @@ Assignment      | Description | Due |
 | -----         | ------      |  ------ | 
 | Assignment 1  | [Estimators](./assignments/asgn-1/asgn-1.zip) |  12.04.2022 | 
 | Assignment 2  | [MPC](./assignments/asgn-2/asgn-2.zip) | 24.04.2022 | 
-| Assignment 3  | Extended Kalman Filter |  08.05.2022 |
+| Assignment 3  | [Extended Kalman Filter]((./assignments/asgn-3/asgn-3.zip)) |  08.05.2022 |
 | Assignment 4  | [Computer Vision](./assignments/asgn-4/asgn-4.zip)|  18.05.2022 |
 | Final project | [Task description](./assignments/final-project-task-description.txt) | Presentation at last two slots |
