@@ -6,7 +6,7 @@ Materials for the **Advanced control methods 2022** course by AIDA Lab. Both lec
 
 Lecture | Date | Video | Materials | 
 | ----- |  -----|  ----- | ------ | 
-| Lecture 1 | 28.03.2022|[Dynamical systems](https://youtu.be/R-a1teXpf8E)| - |
+| Lecture 1 | 28.03.2022|[Dynamical systems](https://youtu.be/R-a1teXpf8E)|  |
 | Lecture 2 | 29.03.2022|[Stability and convergence](https://www.youtube.com/watch?v=ucn2sFBkzSw)| [Notes](./lectures/lec-2/acm2022-lec2-slides-ann.pdf) |
 | Lecture 3 | 05.04.2022 |[Model-predictive control](https://youtu.be/nL8t5qMr6mE)|[Notes](./lectures/lec-3/ACM2022-lec3-class_220405_175116.pdf)| 
 | Lecture 4 | 11.04.2022 |Fault tolerance||
@@ -14,21 +14,22 @@ Lecture | Date | Video | Materials |
 | Lecture 6 | 19.04.2022 |Differential privacy|| 
 | Lecture 7 | 25.04.2022 |[Sensor data processing](https://youtu.be/P-ACsbrfWcQ)|[Slides](./lectures/lec-7/acm-2022-lec-7.pdf)| 
 | Lecture 8 | 28.04.2022 |Overview of pattern recognition|| 
-| Lecture 9 | 16.05.2022 |Overview of modern robotics|| 
+| Lecture 9 | 16.05.2022 |[Overview of modern robotics](https://youtu.be/Hb5GlTFRx9I)||
+| Final projects | 24.05.2022 |[Final projects](https://www.youtube.com/watch?v=YDHvtfXf-ks)||
 
 ## Seminars 
 
 Seminar     | Date  | Video |Materials |
 | -----     | ------| ------ | ----- | 
-| Seminar 1 | 31.03.2022 | - | - |
-| Seminar 2 | 04.04.2022 | [Estimators](https://youtu.be/9z7Yh1QQAFI) | - |
+| Seminar 1 | 31.03.2022 |  |  |
+| Seminar 2 | 04.04.2022 | [Estimators](https://youtu.be/9z7Yh1QQAFI) |  |
 | Seminar 3 | 07.04.2022 | To appear | To appear |  
 | Seminar 4 | 12.04.2022 | To appear | To appear | 
 | Seminar 5 | 18.04.2022 | To appear | To appear | 
 | Seminar 6 | 21.04.2022 | To appear | To appear |
 | Seminar 7 | 26.04.2022 | To appear | To appear | 
 | Seminar 8 | 12.05.2022 | [Sensor data processing](https://youtu.be/TKnvRyMqSI4) | [Notebook](./seminars/sem-8/acm-2022-sem8-vision.ipynb) | 
-| Seminar 9 | 17.05.2022 | To appear | To appear | 
+| Seminar 9 | 17.05.2022 | [Pattern recognition](https://youtu.be/TsZV3oi-FG4) |  | 
 
 ## Assignments
 
