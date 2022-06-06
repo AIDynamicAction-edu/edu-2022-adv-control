@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<launch>
+    <include file="$(find eurobot_main)/launch/secondary_robot_multimaster.launch" />
+    <rosparam file="$(find eurobot_localization)/config/secondary_robot_localization_params.yaml" command="load" ns="secondary_robot"/>
+    <rosparam file="$(find eurobot_stm)/config/stm.yaml" command="load" ns="secondary_robot"/>
+    <rosparam file="$(find eurobot_main)/config/secondary_robot.yaml" command="load" ns="secondary_robot"/>
+    <rosparam file="$(find eurobot_main)/config/bt_params.yaml" command="load" ns="secondary_robot"/>
+    <node pkg="rosserial_python" name="serial_node" type="serial_node.py">
+        <param name="port" value="tcp"/>
+    </node>
+    <group ns = "secondary_robot">
+        <node name="stm_node" pkg="eurobot_stm" type="STM.py" output="screen" respawn="true" >
+            <param name="is_publish_tf" value="false"/>
+        </node>
+<!--       <include file="$(find eurobot_localization)/launch/localization_secondary_robot.launch"/>-->
+        <node name="controller_node" pkg="omni_dynamic_controller" type="current_control_node.py" output="screen" respawn="true" />
+    </group>
+</launch>
+
