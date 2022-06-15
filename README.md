@@ -10,8 +10,8 @@ Lecture | Date | Video | Materials |
 | Lecture 2 | 29.03.2022|[Stability and convergence](https://www.youtube.com/watch?v=ucn2sFBkzSw)| [Notes](./lectures/lec-2/acm2022-lec2-slides-ann.pdf) |
 | Lecture 3 | 05.04.2022 |[Model-predictive control](https://youtu.be/nL8t5qMr6mE)|[Notes](./lectures/lec-3/ACM2022-lec3-class_220405_175116.pdf)| 
 | Lecture 4 | 11.04.2022 |Fault tolerance||
-| Lecture 5 | 14.04.2022 |Adversarial robustness|| 
-| Lecture 6 | 19.04.2022 |Differential privacy|| 
+| Lecture 5 | 14.04.2022 |[Adversarial robustness](https://youtu.be/9Tnm4qe4_Ig)|| 
+| Lecture 6 | 19.04.2022 |[Differential privacy](https://youtu.be/ETMQdceEoSM)|| 
 | Lecture 7 | 25.04.2022 |[Sensor data processing](https://youtu.be/P-ACsbrfWcQ)|[Slides](./lectures/lec-7/acm-2022-lec-7.pdf)| 
 | Lecture 8 | 28.04.2022 |Overview of pattern recognition|| 
 | Lecture 9 | 16.05.2022 |[Overview of modern robotics](https://youtu.be/Hb5GlTFRx9I)||
